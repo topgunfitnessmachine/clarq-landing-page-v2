@@ -1,0 +1,17 @@
+{
+  "name": "Clarq.ai",
+  "short_name": "Clarq",
+  "description": "Force Intelligence Platform for Human Performance",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "icons": [
+    {
+      "src": "brand/clarq-logo-256.png",
+      "sizes": "256x226",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

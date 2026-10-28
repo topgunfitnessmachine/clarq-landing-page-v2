@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://clarq-ai.com/sitemap.xml
